@@ -8,4 +8,6 @@ Yatube - это простая соц.сеть, которая позволяе�
 ```
 https://github.com/PotashevIlya/api_final_yatube
 ```
-
+```
+cd api_final_yatube
+```
